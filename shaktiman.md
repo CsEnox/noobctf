@@ -1,4 +1,4 @@
-#Shaktiman
+# Shaktiman
 
 So when we try opening the image it says its corrupted. 
 
