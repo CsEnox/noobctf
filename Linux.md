@@ -22,7 +22,7 @@ FLAG : noob{Ahh!_Y0u_g0t_m3_4tl4st}
 
 #Linux Part 3 :
 
-In downloads folder we get cipher.txt
+In downloads folder we get cipher.txt [ BASE 64 ]
 Decoding it gives us the flag !
 
 #Linux Part 4 (ROOT) :
